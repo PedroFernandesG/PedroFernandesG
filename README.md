@@ -5,7 +5,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ](https://www.kaggle.com/pfernandes17)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](www.linkedin.com/in/pedro-fernandes-355a3a27a)
+](www.linkedin.com/in/pedro-fernandes123)
 
 ## I'm a student of Computer Engineering at the Computer Centre of the Federal University of Pernambuco. This repository is for academic activities and personal projects.
 
