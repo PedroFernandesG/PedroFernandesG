@@ -11,7 +11,7 @@
 
 ![Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFernandesG&show_icons=true&theme=radical)
 
-# Tecnologias que eu uso no dia a dia
+# Technologies used in my daily life
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFernandesG)](https://github.com/anuraghazra/github-readme-stats)
 
