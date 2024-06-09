@@ -22,7 +22,19 @@
   <img align="center" alt = "c" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <br>
   <br>
-   <img align="center" alt = "c" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+
+
+##
+
+  ### Frameworks I use most in python
+   <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
+    
+   
 </div>
 
 ## 
