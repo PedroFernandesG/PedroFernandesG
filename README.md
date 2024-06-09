@@ -22,3 +22,5 @@
   <img align="center" alt = "c" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
 </div>
+
+ ![snake animation](https://github.com/PedroFernandesG/PedroFernandesG/blob/output/github-contribution-grid-snake2.svg)
