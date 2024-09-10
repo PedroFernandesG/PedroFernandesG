@@ -29,11 +29,11 @@
 ##
 
   ### Frameworks I use most in python
-   <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+   <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
     
    
