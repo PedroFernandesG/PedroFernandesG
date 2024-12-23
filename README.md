@@ -1,7 +1,5 @@
 ### Hello, I'm Pedro Fernandes🫡
 
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-](https://replit.com/@pedotdb)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ](https://www.kaggle.com/pfernandes17)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -22,18 +20,17 @@
   <img align="center" alt = "c" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
   <img align="center" alt = "c" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitee"/>
   <img align="center" alt = "c" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img align="center" alt = "c" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <br>
   <br>
-
 
 ##
-
-  ### Frameworks I use most in python
-   <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+  ### Tools i use most in my daily life
+   <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
     
    
