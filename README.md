@@ -7,11 +7,11 @@
 
 ## I'm a student of Computer Engineering at the Computer Centre of the Federal University of Pernambuco. This repository is for academic activities and personal projects.
 
-![Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFernandesG&show_icons=true&theme=radical)
+![Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFernandesG&show_icons=true&theme=blue-green)
 
 # Technologies used in my daily life
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFernandesG&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFernandesG&theme=blue-green)
 
 <div style="display : inline_block"><br/>
   <img align="center" alt = "c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -28,16 +28,14 @@
   ### Tools i use most in my daily life
    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+    <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"/>
     <img align="center" alt = "c" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
-    
    
 </div>
 
 ## 
 
- ![snake gif](https://github.com/PedroFernandesG/PedroFernandesG/blob/output/github-contribution-grid-snake.gif)
-
-
+![Snake animation](https://github.com/PedroFernandesG/PedroFernandesG/blob/output/github-contribution-grid-snake.svg)
