@@ -21,6 +21,7 @@
   <img align="center" alt = "c" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitee"/>
   <img align="center" alt = "c" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="center" alt = "c" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt = "c" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
   <br>
   <br>
 
